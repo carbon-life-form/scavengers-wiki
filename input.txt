@@ -1,0 +1,10 @@
+Name	Cost	Starting Stance	Ending Stance	Damage	Extra Effects	
+Tendon Cut	2 actions	Low	Mid	1d1	Slow(1).	
+Power Cut	2 actions	High	Low	2d8	You must spend 2 rampage to perform this attack.	
+Brutal Chop	1 action	High/Mid/Low	High/Mid/Low	1d6	Your ending stance is either one stance higher or lower than your starting stance, gain 1 rampage. If your starting stance is High stance your damage die is changed to 1d8.	
+Bloodletting	2 actions	Low	Mid	1d1	Bleed(2).	
+Fast Strike	0 actions, 1 stamina	Mid	Low	2d6	You must spend 3 rampage to perform this attack. Move 1 meter before this attack	
+Cleave	2 actions	Med	High	2d6	Cleave(3), Power(1).	
+Raging Rush	1 action, 1 stamina	Low	Mid	1d10	Cost 1 rampage, Move up to half your speed before this attack.	
+Rampage	Passive	-	-	-	While wielding this weapon during your upkeep phase gain 1 rampage, your max rampage is 6. At the start and end of combat your rampage is set to 0.	
+Controlling Strike	1 action, 1 stamina	High	Mid	1d8	Knockback(2), this knockback can move the enemies sideways.	

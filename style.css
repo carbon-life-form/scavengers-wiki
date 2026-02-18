@@ -142,7 +142,13 @@ table {
 	border-spacing: 0;
 }
 td,th {
-	padding: 0;
+	padding: 6px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+}
+th {
+  background-color: #dddddd;
 }
 html {
 	color: #222;
